@@ -10,7 +10,7 @@ class Person {
 		// TODO Auto-generated constructor stub
 		System.out.println("这是无参构造方法");
 	}
-
+ 
 	public Person(int age) {
 		this.setAge(age);
 	}
