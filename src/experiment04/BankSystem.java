@@ -23,7 +23,7 @@ import java.util.Queue;
  * 请写一个程序，对银行的这种业务现象进行模拟，并显示模拟结果。
  * */
 
-/**
+/**   =
  * 银行排号系统
  * 
  * @author niracler
